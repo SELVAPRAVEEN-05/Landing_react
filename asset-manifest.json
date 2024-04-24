@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Landing_react/static/css/main.fda5636a.css",
+    "main.js": "/Landing_react/static/js/main.e1e9fdd9.js",
+    "static/js/453.785134cd.chunk.js": "/Landing_react/static/js/453.785134cd.chunk.js",
+    "static/media/travell.jpg": "/Landing_react/static/media/travell.788e46c7b4049a2d4890.jpg",
+    "index.html": "/Landing_react/index.html",
+    "main.fda5636a.css.map": "/Landing_react/static/css/main.fda5636a.css.map",
+    "main.e1e9fdd9.js.map": "/Landing_react/static/js/main.e1e9fdd9.js.map",
+    "453.785134cd.chunk.js.map": "/Landing_react/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda5636a.css",
+    "static/js/main.e1e9fdd9.js"
+  ]
+}
